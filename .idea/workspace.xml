@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd37885-e5ee-4ffa-9fb5-5d5975bc4666" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/todo/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/todo/completedtodos.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/todo/createtodo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todo/templates/todo/viewtodo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/todo/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/todo/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/templates/todo/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/templates/todo/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/templates/todo/currenttodos.html" beforeDir="false" afterPath="$PROJECT_DIR$/todo/templates/todo/currenttodos.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todo/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/todo/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todowoo/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/todowoo/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/todowoo/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/todowoo/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +47,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../encomercproject" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myawesomeblog" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
